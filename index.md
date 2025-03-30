@@ -15,6 +15,6 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
--[]adapting Cdode
--[]delete branches
--[]clean up Room
+- [X] adapting Code
+- [ ] delete branches
+- [ ] clean up Room
